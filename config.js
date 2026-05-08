@@ -24,7 +24,7 @@ module.exports = {
     type: 'java', // Type of MC server: "java" or "bedrock".
     name: 'AKM SMP', // Name of the MC server.
     version: 'Any Version', // Version of the MC server.
-    icon: 'https://i.imgur.com/6Msem8Q.png', // URL of the MC server icon. How to set it: https://tinyurl.com/iconurl
+    icon: 'https://github.com/akm-org/minecraft-discord-bot/blob/main/icon.png?raw=true', // URL of the MC server icon. How to set it: https://tinyurl.com/iconurl
     site: 'https://nooberpro.gitbook.io/', // URL of the MC server or vote website. Leave blank to disable site commands.
   },
 
