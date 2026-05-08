@@ -2,7 +2,7 @@
 // "MC" refers to Minecraft in the comments for convenience.
 module.exports = {
   bot: {
-    token: 'your-bot-token-here',
+    token: 'MTUwMjM4NDI3MjI0ODY2ODM4MA.GRcCDE._3ZIeVrwL7aA71ZhMIPc6lIY0ezJkZkM8ECvK0',
     // Automatically updates the bot's status and activity.
     presence: {
       enabled: true,
