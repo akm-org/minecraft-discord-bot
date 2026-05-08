@@ -19,11 +19,11 @@ module.exports = {
     },
   },
   mcserver: {
-    ip: 'demo.mcstatus.io', // IP address of the MC server.
+    ip: 'akmsmp.fun', // IP address of the MC server.
     port: 25565, // Port number of the MC server. Use Query Port in Java for the full player list.
     type: 'java', // Type of MC server: "java" or "bedrock".
-    name: 'Demo Server', // Name of the MC server.
-    version: 'Requires 1.8 - 1.20', // Version of the MC server.
+    name: 'AKM SMP', // Name of the MC server.
+    version: 'Any Version', // Version of the MC server.
     icon: 'https://i.imgur.com/6Msem8Q.png', // URL of the MC server icon. How to set it: https://tinyurl.com/iconurl
     site: 'https://nooberpro.gitbook.io/', // URL of the MC server or vote website. Leave blank to disable site commands.
   },
